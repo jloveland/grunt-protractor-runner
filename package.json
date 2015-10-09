@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "protractor": "^2.0.0",
+    "protractor": "git://github.com/angular/protractor.git#master",
     "split": "~0.3.0",
     "through2": "~0.5.1"
   },
